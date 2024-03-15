@@ -1,4 +1,4 @@
-# RheaChatBot
+# CCSAChatbot
 
 Welcome to the CCSA Chatbot Project repository! This project is developed as part of the coursework for BS in Computer Science at Christian Colleges of Southeast Asia. The aim of this project is to create an interactive and intelligent chatbot capable of assisting students, faculty, and visitors with various inquiries related to the institution.
 
